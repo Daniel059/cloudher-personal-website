@@ -1,0 +1,29 @@
+# CloudHER Personal Website
+
+This project was completed as part of the CloudHER by WIICA Week 3 Assignment.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Amazon S3
+- Git
+- GitHub
+
+## Project Structure
+
+```
+cloudher-personal-website
+│
+├── index.html
+├── style.css
+└── README.md
+```
+
+## Live Website
+
+(Add your S3 URL here after deployment.)
+
+## Author
+
+Daniel Nzioki Musyoka
