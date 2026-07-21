@@ -117,6 +117,7 @@ This project was completed as part of the **CloudHER by WIICA Week 3 Cloud Compu
 Special thanks to my mentor **Rajpreet Gill** for her guidance and support throughout my CloudHER journey. Her mentorship helped me deepen my understanding of **AWS and  Cloud Computing**, and gave me valuable insights into building and deploying cloud-based solutions.
 
 🔗 LinkedIn: https://www.linkedin.com/company/wiica/
+
 🔗 LinkedIn: https://www.linkedin.com/in/rajpreet-gill-devop/
 
 ---
