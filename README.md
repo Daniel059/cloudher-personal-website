@@ -78,15 +78,11 @@ http://cloudher-danielmusyoka-week3.s3-website-us-east-1.amazonaws.com
 
 ### Website Homepage
 
-```text
-screenshots/homepage.png
-```
+![Website Homepage](screenshots/homepage.png)
 
 ### S3 Bucket Configuration
 
-```text
-screenshots/s3-bucket.png
-```
+![S3 Bucket Configuration](/screenshots/s3-bucket_config.png)
 
 ---
 
@@ -120,6 +116,7 @@ This project was completed as part of the **CloudHER by WIICA Week 3 Cloud Compu
 
 Special thanks to my mentor **Rajpreet Gill** for her guidance and support throughout my CloudHER journey. Her mentorship helped me deepen my understanding of **AWS and  Cloud Computing**, and gave me valuable insights into building and deploying cloud-based solutions.
 
+🔗 LinkedIn: https://www.linkedin.com/company/wiica/
 🔗 LinkedIn: https://www.linkedin.com/in/rajpreet-gill-devop/
 
 ---
